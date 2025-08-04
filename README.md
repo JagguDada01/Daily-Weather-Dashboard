@@ -22,9 +22,31 @@ This tool allows users to:
 
 ---
 
-
-### 🔁 Clone this Repository
+### ⚙️ Installation & Setup
+---
+## 🔁 Clone this Repository
 
 ```bash
 git clone https://github.com/JagguDada01/Daily-Weather-Dashboard.git
 cd Daily-Weather-Dashboard
+```
+
+📦 Create Virtual Environment (Optional but Recommended)
+```bash
+python -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+```
+🔧 Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+▶️ Run the Application
+```bash
+python weather.py
+```
+
+Then open your browser and visit:
+```
+http://127.0.0.1:8050
+
