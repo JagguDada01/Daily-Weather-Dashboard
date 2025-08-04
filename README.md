@@ -26,5 +26,5 @@ This tool allows users to:
 ### 🔁 Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/patna-weather-dashboard.git
-cd patna-weather-dashboard
+git clone https://github.com/JagguDada01/Daily-Weather-Dashboard.git
+cd Daily-Weather-Dashboard
